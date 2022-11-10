@@ -2,3 +2,4 @@
 
 
 Desafio de projeto sobre Git/Github
+Criação básica de um repositório publico no Git
