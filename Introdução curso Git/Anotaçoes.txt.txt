@@ -1,0 +1,2 @@
+Git init => para iniciar umm repositorio
+git commit -m => para comitar
