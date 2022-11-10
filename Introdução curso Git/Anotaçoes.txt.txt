@@ -1,2 +1,4 @@
 Git init => para iniciar umm repositorio
+git add .
 git commit -m => para comitar
+git push origin main => importar para nuvem
